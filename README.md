@@ -1,4 +1,4 @@
-# WeSpeaker (My version about Speaker Recognition)
+# WeSpeaker (My version about Speaker Recognition and LINEAR TRANSFORMATION)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python-Version](https://img.shields.io/badge/Python-3.8%7C3.9-brightgreen)](https://github.com/wenet-e2e/wespeaker)
